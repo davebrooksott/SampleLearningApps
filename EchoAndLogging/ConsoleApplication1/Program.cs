@@ -11,11 +11,11 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            IEchoAndLogging inputString = GetEchoer.getEchoer();
+            IEchoAndLogging echoer = GetEchoer.getEchoer();
 
             Console.WriteLine("Hello World");
-            inputString.echoString = Console.ReadLine();
-            inputString.doEcho();
+            echoer.echoString = Console.ReadLine();
+            echoer.doEcho();
             Console.ReadLine();
         }
     }

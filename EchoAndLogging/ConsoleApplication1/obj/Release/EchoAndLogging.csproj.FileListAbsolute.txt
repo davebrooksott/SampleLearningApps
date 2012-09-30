@@ -15,5 +15,4 @@ C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\Co
 C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\ConsoleApplication1\bin\Release\log4net.xml
 C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\ConsoleApplication1\obj\Release\EchoAndLogging.exe
 C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\ConsoleApplication1\obj\Release\EchoAndLogging.pdb
-C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\ConsoleApplication1\bin\Release\EchoAndLogging.exe.CodeAnalysisLog.xml
-C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\ConsoleApplication1\bin\Release\EchoAndLogging.exe.lastcodeanalysissucceeded
+C:\Users\Dave Brooks\Documents\GitHub\Sample Apps for learning\EchoAndLogging\ConsoleApplication1\obj\Release\EchoAndLogging.csprojResolveAssemblyReference.cache
